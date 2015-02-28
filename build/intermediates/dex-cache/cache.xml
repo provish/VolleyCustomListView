@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/pre-dexed/debug/classes-eacc4f3cc38d089b9777657f37f724bb86515340.jar" />
+    </item>
+    <item
+        jar="/home/vishal/Development/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f6acedc5aee4b8516c16b2d9d6481cd211ea1cc6.jar" />
+    </item>
+    <item
+        jar="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/pre-dexed/debug/volley-cfea539af2de18839effddd6408977a96629821a.jar" />
+    </item>
+    <item
+        jar="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/pre-dexed/debug/classes-524d548da434f64600bd30f236d6ff10f09168a9.jar" />
+    </item>
+    <item
+        jar="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/vishal/AndroidStudioProjects/VolleyCustomListView/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-b2396683ca63ed17c8e2bb189984869855244e8a.jar" />
+    </item>
+
+</items>
